@@ -2,8 +2,13 @@
 DATA CLEANING BY SQL WITH FUNCTIONS: CONVERT,UPDATE,ALTER TABLE,JOIN, ISNULL,SUBSTRING,CHARINDEX,LEN,PARSENAME,CASE,ROW_NUMBER,DELETE,DROP
 
 Standardize Sale Date format(CONVERT,UPDATE,ALTER TABLE)
+
 Populate data in Property Address(JOIN, ISNULL)
+
 Breaking out Address into individual column(SUBSTRING,CHARINDEX,LEN,PARSENAME)
+
 Change "Y" to "Yes" and "N" to "No" (CASE,COUNT)
+
 Remove dupulates (ROW_NUMBER,DELETE)
+
 Remove unused columns(DROP)
